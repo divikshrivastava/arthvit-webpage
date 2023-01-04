@@ -36,7 +36,9 @@ app.post("/", async (request, response) => {
       values: [[name, mobile]],
     },
   });
-  response.send("Data added to sheet!");
+  response.send(
+    "Data added to sheet, to add additional data open the link in another tab!"
+  );
 });
 
 const PORT = 3000;
