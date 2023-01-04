@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "arthvit",
+  "private_key_id": "72ab6e400989e978c73184be805636cb8f52458a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCYE3ygF4OD8m4G\nAIWRL7jP66f1NB0ueN14FpqMGOHrVmJqMKnyCSoQ51W9AHVY2Z6nvV8FriBC29UL\n/QdOJUD49wOss72UU8T85hbdUkeq1WXKe/pKH3HhYHtXp5xj4B4L+Te8HM75t+QM\nEywGAVQ6HkG74AcYvfAXLUf5JJQpeHq/T9VzhQPg5WZa3WZnybdiRoaJR0iiBLrw\nTAEDRaE+MuF846cM1iJK3WvJAuA9676X8V0heZvzhbfb9xVEBl4ABRBHiLkYUot7\ndhg/iSYM4IzuUPBkZaggR/DM4aMKlbgICih7xNYgCjRLlhnsIu+EeFI7qSz0bbLk\nHdSfGvqLAgMBAAECggEAQQ4pBIU6jgHx3iBwAv1itpNtfMAn8Z7jwwEMaP0l/Bou\nrJWXxcH03FlR/LHLAVDLBZ/Fm/TyuRc4itHZw6y9ICPvTvxvD5pMTRGS22fc37A9\nRMMHfZj5CvxOl19M0A7qW53noVHDmuD3LdEvxnvgD6Ks5RV/g66RHCETRnnG5fwK\n2Tj18fZHls+HVuLIgxlKqmsdCQOeuSsJ/+GiYF/A2Ybqc88jDsHTg3eml9ZcZiwl\nN4Fo4ry13EBl6RJZ+0hBvVUcMOsspYXvYRLdC6FpiEAey7FCnX9orfNHqwOQ3hvn\nc0dS/QFb+LVPCwGETA/Y6J8el0FyPdF5SlmR2qdnlQKBgQDGh5InXPlQKf0VFGR8\nrILti9wXsveBNSLd8gAy8tef9WFIG0em8JvNNVLNQceJKDNCbgpGGxi16ShDktVA\nfTtav5kEkLwypfYjW+aWX7YGNtFWUq34bAGE7jdW4kNlKlhE/SDf7A9owyn+Joek\nLTqFxO9Hqf/6AdkRWViV7B4RtQKBgQDEGWPrAz6khhYF0dnesDc8Rf4tcBE5Fr/D\n+W/ihKbFqxd7JBh/XWBECuEUBm0nWcxqQFUgntxiczCWElnpEdA9eyM25nJ5+eVT\nnBq9cA28jzVb2y0UvGvXuOXPnDurrZBCqwHqzY07RJox81vj80+bHw2FQOF3SvSp\n6G5p6TGDPwKBgBEiMiLji0C33veqwuFfog0OPPhuoZ2tEE1HTW0YODO94Z9ve0eV\nDF0xdOvx+V6E8aeSB6D1RbStYqQyT+U46Z5zWqliNFvKput2Svg/Wl4+7OIeUJVX\n/OmUBYKiFF7uwJ9zmRq6LLpF3aHpgVtR6/MPg/cTXNwevLUamOKXdiDhAoGAHuT1\nJfBj7R2m2JHgJkJS4W8RhW0TeZAI9EIXC3Pkpl23HFJqfZ5jbTTdkv8UMU/ncZHj\nF3mPtP7615naimqhCR6eRKb3wBnLtGlymQfPUjaprGgSaSLqRpk9s4Cksf5tLOOu\nMKTjrEO5m0cA4h/SGdlBkw3Ot7GabC5PPuZbQ5cCgYBcQINmeT/CMjGYPmCUFfG4\nraAYpPXX9rV64Cfh0fZy4N9S2aAaduk0K3HRaE86ci7j/YjHRyNMcJMsHos3Ljvx\nk8k6g7SI+EYPLEjjxS5B3DgKVFuA0HJqPdQKsCHIKcYPOeJpz4h9SimgomoCyeoM\nWoyaIUQCJ036Qbyx+Q8JVA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "arthvit@arthvit.iam.gserviceaccount.com",
+  "client_id": "106900552089701970717",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/arthvit%40arthvit.iam.gserviceaccount.com"
+}
